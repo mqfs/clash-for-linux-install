@@ -21,7 +21,7 @@
 
 ```bash
 cd ~ \
-  && git clone --branch master --depth 1 https://gh.llkk.cc/https://github.com/nelvko/clash-for-linux-install.git \
+  && git clone --branch master --depth 1 https://gh.llkk.cc/https://github.com/mqfs/clash-for-linux-install.git \
   && cd clash-for-linux-install \
   && bash install.sh
 ```
