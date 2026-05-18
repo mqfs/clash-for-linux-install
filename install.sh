@@ -23,7 +23,8 @@ _apply_rc
 
 _merge_config
 _detect_proxy_port
-clashui
+# 面板地址
+# clashui
 clashsecret "$(_get_random_val)" >/dev/null
 clashsecret
 
